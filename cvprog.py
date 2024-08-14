@@ -1,3 +1,4 @@
+# python opencv prog to display & modify the img
 import cv2
 
 # load the image

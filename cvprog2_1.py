@@ -1,3 +1,4 @@
+#spliting the webcam into 4parts 
 import numpy as np
 import cv2
 

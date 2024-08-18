@@ -8,7 +8,7 @@ cap = cv2.VideoCapture(0)
 while True:
     ret, frame = cap.read()                 #ret tells that whether the cap is working or not
     
-    # to get the wedth and height of the img width = 3, height = 4
+    # to get the width and height of the img width = 3, height = 4
     width = int(cap.get(3))
     height = int(cap.get(4))
 
